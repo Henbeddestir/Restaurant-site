@@ -1,0 +1,13 @@
+.reviews-section img {
+   width: 15%;
+   border-width: thin;
+
+
+
+}
+
+.reviews-stars svg {
+   margin: 0rem 0.25rem;
+   font-size: 1.5rem;
+   color: #fe9e0d;
+ }
